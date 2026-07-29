@@ -4,7 +4,7 @@ I build AI systems that do a whole job and then keep doing it without me standin
 
 Computer science at the University of Calgary. Right now I am also a research student building GenVolVis, a bounded multi agent system that infers 3D volume rendering transfer functions from a text prompt, scored by a five judge panel that turned out to disagree with itself in interesting ways.
 
-I will be on a post graduation work permit. It is an open permit, so there is no sponsorship and no LMIA on an employer's side.
+I hold an open work permit valid until 2028, so I can work for any employer in Canada full time, with no sponsorship and no LMIA on your side.
 
 ### Start here
 
