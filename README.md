@@ -10,4 +10,6 @@ I hold an open work permit valid until 2028, so I can work for any employer in C
 
 [MenuElf](https://github.com/alirezavafisani/MenuElf) searches 19,500 real dishes across 642 Calgary restaurants by what you are craving, and it is [live](https://menuelfapp.com).
 
+[mf-stability](https://github.com/alirezavafisani/mf-stability) runs the same matrix factorization twice on single cell gene expression data, changing only the random seed, and measures how often the answer changes across five methods.
+
 alireza.vafisani@ucalgary.ca &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/alireza-vafisani) &nbsp;·&nbsp; Calgary, Alberta
